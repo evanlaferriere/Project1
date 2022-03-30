@@ -1,0 +1,30 @@
+Filed_Date,Transaction_Date,Issued,Symbol,First_Name,Last_Name,Type,Amount,Notes,Relation
+2022-03-23,2022-02-24,Apple Inc. - Common Stock,AAPL,Ron L,Wyden,Sale (Partial),$50k - $100k,The shares of AAPL were purchased in error and immediately sold on the same date with no gain,Spouse
+2022-03-23,2022-02-24,Apple Inc. - Common Stock,AAPL,Ron L,Wyden,Purchase,$50k - $100k,,Spouse
+2022-03-16,2022-01-28,Target Corporation Common Stock,TGT,Sheldon,Whitehouse,Purchase,$15k - $50k,,Self
+2022-03-16,2022-01-28,Tesla Inc. - Common Stock,TSLA,Sheldon,Whitehouse,Purchase,$15k - $50k,,Self
+2022-03-14,2022-03-03,Wells Fargo & Company Common Stock,WFC,A. Mitchell,McConnell,Purchase,$1k - $15k,Dividend Reinvestment,Spouse
+2022-03-11,2022-02-24,NextEra Energy Inc. Common Stock,NEE,Shelley M,Capito,Sale (Partial),$1k - $15k,,Spouse
+2022-03-11,2022-02-24,Microsoft Corporation - Common Stock,MSFT,Shelley M,Capito,Sale (Partial),$1k - $15k,,Spouse
+2022-03-11,2022-02-24,L3Harris Technologies Inc. Common Stock,LHX,Shelley M,Capito,Sale (Partial),$1k - $15k,,Spouse
+2022-03-11,2022-02-24,Lowe's Companies Inc. Common Stock,LOW,Shelley M,Capito,Sale (Partial),$1k - $15k,,Spouse
+2022-03-11,2022-02-24,Apple Inc. - Common Stock,AAPL,Shelley M,Capito,Sale (Partial),$1k - $15k,,Spouse
+2022-03-11,2022-02-22,Occidental Petroleum Corporation Common Stock,OXY,Thomas H,Tuberville,Sale (Partial),$50k - $100k,,Joint
+2022-03-11,2022-02-17,Ark Innovation ETF,ARKK,Thomas H,Tuberville,Sale (Full),$1k - $15k,Option Type: Short Sale Strike price: $65.00 Expires: 09/16/2022,Joint
+2022-03-11,2022-02-10,United States Steel Corporation Common Stock,X,Thomas H,Tuberville,Sale (Full),$1k - $15k,Option Type: Short Sale Strike price: $22.00 Expires: 09/16/2022,Joint
+2022-03-11,2022-02-10,United States Steel Corporation Common Stock,X,Thomas H,Tuberville,Sale (Full),$1k - $15k, Option Type: Short Sale Strike price: $27.00 Expires: 09/16/2022,Joint
+2022-03-11,2022-02-10,United States Steel Corporation Common Stock,X,Thomas H,Tuberville,Purchase,$100k - $250k,,Joint
+2022-03-11,2022-02-09,PayPal Holdings Inc. - Common Stock,PYPL,Thomas H,Tuberville,Sale (Full),$1k - $15k,Option Type: Short Sale Strike price: $140.00 Expires: 09/16/2022,Joint
+2022-03-11,2022-02-09,PayPal Holdings Inc. - Common Stock,PYPL,Thomas H,Tuberville,Sale (Full),$1k - $15k, Option Type: Short Sale Strike price: $135.00 Expires: 09/16/2022,Joint
+2022-03-11,2022-02-09,PayPal Holdings Inc. - Common Stock,PYPL,Thomas H,Tuberville,Purchase,$15k - $50k,,Joint
+2022-03-11,2022-02-07,ChannelAdvisor Corporation Common Stock,ECOM,Thomas H,Tuberville,Sale (Full),$1k - $15k,,Joint
+2022-03-11,2022-02-07,ChannelAdvisor Corporation Common Stock,ECOM,Thomas H,Tuberville,Sale (Full),$1k - $15k,Option Type: Short Sale Strike price: $22.50 Expires: 09/16/2022,Joint
+2022-03-11,2022-02-07,PayPal Holdings Inc. - Common Stock,PYPL,Thomas H,Tuberville,Purchase,$50k - $100k,,Joint
+2022-03-11,2022-02-01,Ford Motor Company Common Stock,F,Thomas H,Tuberville,Sale (Full),$15k - $50k,Option Type: Short Sale Strike price: $20.00 Expires: 01/20/2023,Joint
+2022-03-09,2022-02-08,Paypal Holdings Inc Coupon,PYPL,Susan M,Collins,Purchase,$50k - $10k,Rate/Coupon: 2.400% Matures: 10/01/2024,Spouse
+2022-03-04,2022-02-18,Phillips Edison Grocery Center REIT I,PHLD,Patrick J,Toomey,Sale (Full),$15k - $50k,,Self
+2022-02-18,2022-01-31,Construction Partners Inc. - Common Stock,ROAD,Mark R,Warner,Sale (Full),$100k - $250k,Shares received from SunTx Fulcrum Fund L.P. - Construction Partners Inc. (dba SunTx CPI Growth Company Inc.),Self
+2022-02-17,2022-01-21,Unilever PLC Common Stock,UL,Susan M,Collins,Sale (Full),$15k - $50k,,Spouse
+2022-01-21,2021-12-21,Gilead Sciences Inc. - Common Stock,GILD,Jerry,Moran,Sale (Full),$1k - $15k,,Spouse
+2022-01-21,2021-12-21,Exxon Mobil Corporation Common Stock,XOM,Jerry,Moran,Sale (Partial),$1k - $15k,,Spouse
+2022-01-21,2021-12-21,CVS Health Corporation Common Stock,CVS,Jerry,Moran,Sale (Partial),$1k - $15k,,Spouse
