@@ -5,8 +5,11 @@ This project takes Senate stock trading information and answers some statistical
 
 ## Technologies Used
 Scala
+
 Spark
+
 Hadoop
+
 Hive
 
 ## Features
